@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://exploreflutterwithrohanur.quora.com/](https://exploreflutterwithrohanur.quora.com/)
 
-- 💬 Ask me about **Flutter, Dart, Java, Python, Computer science, Cyber Security**
+- 💬 Ask me about **Flutter, Dart, Go, Python, Linux, Cyber Security, Block Chain**
 
 - 📫 How to reach me **rohanurrahmanontu@gmail.com**
 
