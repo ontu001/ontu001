@@ -1,6 +1,6 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)](https://rishavchanda.io)
 <h1 align="center">Rohanur Rahman</h1>
-<h3 align="center">A Tech Enthusiast and Passionate Software Engineer from Bangladesh</h3>
+<h3 align="center">A tech enthusiast and passionate software engineer from bangladesh</h3>
 <br><br>
 
 
