@@ -11,7 +11,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ontu001&show_icons=true&locale=en" alt="ontu001" /></p><br>
 - 🔭 I’m currently working on **Flutter cross-platform mobile application**
 
-- 🌱 I’m currently learning **Flutter backend and Android penetration testing**
+- 🌱 I’m currently learning **Blockchain Decentralized application(dApps)**
 
 - 👨‍💻 All of my projects are available at([https://ontu001.github.io/rohanur_rahman/](https://ontu001.github.io/rohanur_rahman/))
 
