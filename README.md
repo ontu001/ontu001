@@ -1,6 +1,6 @@
 
 <h1 align="center">Rohanur Rahman</h1>
-<h3 align="center">MOBILE APPLICATION DEVELOPER | FLUTTER | DART</h3>
+<h3 align="center">MOBILE APPLICATION DEVELOPER | DART | FLUTTER |FIREBASE</h3>
 <br><br>
 
 
@@ -11,13 +11,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ontu001&show_icons=true&locale=en" alt="ontu001" /></p><br>
 - 🔭 I’m currently working on **Flutter cross-platform mobile application**
 
-- 🌱 I’m currently learning **Blockchain Decentralized application(dApps)**
+- 🌱 I’m currently learning **Fast Api**
 
 - 👨‍💻 All of my projects are available at([https://ontu001.github.io/rohanur_rahman/](https://ontu001.github.io/rohanur_rahman/))
 
 - 📝 I regularly write articles on [https://exploreflutterwithrohanur.quora.com/](https://exploreflutterwithrohanur.quora.com/)
 
-- 💬 Ask me about **Flutter, Dart, Go, Python, Linux, Cyber Security, Block Chain**
+- 💬 Ask me about **Dart, Flutter, Firebase, Python, Mobile Application Development**
 
 - 📫 How to reach me **rohanurrahmanontu@gmail.com**
 
