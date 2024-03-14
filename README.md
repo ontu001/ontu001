@@ -11,17 +11,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ontu001&show_icons=true&locale=en" alt="ontu001" /></p><br>
 - 🔭 I’m currently working on **Flutter cross-platform mobile application**
 
-- 🌱 I’m currently learning **Fast Api**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at([https://ontu001.github.io/rohanur_rahman/](https://ontu001.github.io/rohanur_rahman/))
 
 - 📝 I regularly write articles on [https://exploreflutterwithrohanur.quora.com/](https://exploreflutterwithrohanur.quora.com/)
 
-- 💬 Ask me about **Dart, Flutter, Firebase, Python, Mobile Application Development**
+- 💬 Ask me about **Dart, Flutter, Firebase, Mobile Application Development**
 
-- 📫 How to reach me **rohanurrahmanontu@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1l5iOWHDfn2_HnAVMtHm5rapQI6QzhhZV/view?usp=sharing](https://drive.google.com/file/d/1l5iOWHDfn2_HnAVMtHm5rapQI6QzhhZV/view?usp=sharing)
+- 📫 How to reach me **mdrohanurrahmanontu@gmail.com**
 
 - ⚡ Fun fact **I am too much friendly, but people think I am super introverted.**
 
