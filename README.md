@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at([https://ontu001.github.io/rohanur_rahman/](https://ontu001.github.io/rohanur_rahman/))
 
-- 📝 I regularly write articles on [https://exploreflutterwithrohanur.quora.com/](https://exploreflutterwithrohanur.quora.com/)
+- 📝 I regularly write articles on [https://medium.com/@mdrohanurrahmanontu)
 
 - 💬 Ask me about **Dart, Flutter, Firebase, Mobile Application Development**
 
