@@ -4,13 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ontu001&label=Profile%20views&color=0e75b6&style=flat" alt="ontu001" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ontu001&show_icons=true&locale=en" alt="ontu001" />
-</p>
 
----
-
-🎯 **About Me**
+**About Me**
 
 I'm Rohanur Rahman, a results-driven Data Analyst with a passion for turning raw data into actionable insights for SaaS businesses. I specialize in product, retention, and growth analytics using tools like **SQL, Python, Power BI, and BigQuery**.
 
@@ -42,11 +37,10 @@ I'm Rohanur Rahman, a results-driven Data Analyst with a passion for turning raw
   <a href="https://numpy.org/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEfXHLIJLACY1DI30rAzDlbekLkgFXYm1DA&s" alt="numpy" width="40" height="40"/></a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ontu001&show_icons=true&locale=en&layout=compact" alt="ontu001" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ontu001&show_icons=true&locale=en" alt="ontu001" />
 </p>
+---
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
