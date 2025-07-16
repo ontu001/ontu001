@@ -65,20 +65,16 @@ Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping
 - [YouTube](https://www.youtube.com/c/@rohanurrahman)
 - [Twitter](https://twitter.com/rohanurrahman16)
 
----
-
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ontu001&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
-
----
-
 ## ☕ Support My Work
 
 <p>
   <a href="https://www.buymeacoffee.com/rohanurrahman">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" />
   </a>
+</p>
+
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ontu001&show_icons=true&theme=default" alt="GitHub stats" />
 </p>
