@@ -38,26 +38,34 @@ Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping
 ###  Analytics & BI
 - **Power BI**, **Looker Studio**, **Metabase**
 
+### Spreedsheet
+- **Advance Excel**, **Google Sheet**
+
 ###  Data Warehousing
 - **BigQuery**, **PostgreSQL**, **MySQL**
 
 ### 📈 Libraries
-- **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**
+- **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Plotly**
 
 ### ⚙️ Version Control & Workflow
 - **Git**, **GitHub**, **Jupyter Notebook**
 
----
-
 ##  Current Focus
 
-- 🔁 SaaS analytics (churn, retention, product usage)
-- 📈 Building dashboards for recurring revenue and funnel metrics
-- 🧪 Learning more about **A/B testing and cohort-based growth modeling**
-
----
+-  SaaS analytics (churn, retention, product usage)
+-  Building dashboards for recurring revenue and funnel metrics
+-  Learning more about **A/B testing and cohort-based growth modeling**
 
 ##  How to Reach Me
+
+<p align="left">
+  <a href="https://twitter.com/@rohanurrahman16" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/in/rohanur/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/19823887" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100028137482936" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/@rohanurrahman" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/rohanurrahman1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
+</p>
 
 - Email: **playwithdatawithontu@gmail.com**
 - [LinkedIn](https://www.linkedin.com/in/rohanur/)
