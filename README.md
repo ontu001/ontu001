@@ -17,29 +17,28 @@
   <img src="https://komarev.com/ghpvc/?username=ontu001&label=Profile%20views&color=0e75b6&style=flat" alt="ontu001" />
 </p>
 
----
 
-## 👋 About Me
+##  About Me
 
 Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping SaaS businesses grow through actionable insights.
 
-- 🔍 Specializing in **product, retention, and growth analytics**
-- 💼 Tools I use daily: **SQL, Python, Power BI, BigQuery**
-- 📊 From **churn analysis** to **user segmentation**, I help product teams turn raw data into decisions.
-- 📚 Currently building SaaS-focused projects: **cohort dashboards, funnel drop-offs, LTV models**
-- ✍️ I write about **data, SaaS growth, and analytics frameworks** on [Medium](https://medium.com/@playwithdatawithontu)
+-  Specializing in **product, retention, and growth analytics**
+-  Tools I use daily: **SQL, Python, Power BI, BigQuery**
+-  From **churn analysis** to **user segmentation**, I help product teams turn raw data into decisions.
+-  Currently building SaaS-focused projects: **cohort dashboards, funnel drop-offs, LTV models**
+-  I write about **data, SaaS growth, and analytics frameworks** on [Medium](https://medium.com/@playwithdatawithontu)
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
-### 📌 Languages & Querying
+###  Languages & Querying
 - **SQL**, **Python**, **DAX**
 
-### 📊 Analytics & BI
+###  Analytics & BI
 - **Power BI**, **Looker Studio**, **Metabase**
 
-### 📦 Data Warehousing
+###  Data Warehousing
 - **BigQuery**, **PostgreSQL**, **MySQL**
 
 ### 📈 Libraries
@@ -50,7 +49,7 @@ Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping
 
 ---
 
-## 📁 Current Focus
+##  Current Focus
 
 - 🔁 SaaS analytics (churn, retention, product usage)
 - 📈 Building dashboards for recurring revenue and funnel metrics
@@ -58,7 +57,7 @@ Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping
 
 ---
 
-## 📬 How to Reach Me
+##  How to Reach Me
 
 - Email: **playwithdatawithontu@gmail.com**
 - [LinkedIn](https://www.linkedin.com/in/rohanur/)
@@ -68,7 +67,7 @@ Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ontu001&show_icons=true&theme=default" alt="GitHub stats" />
