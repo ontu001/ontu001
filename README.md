@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | SaaS Analytics | SQL • Python • Power BI • BigQuery</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohanur/" target="_blank">
+  <a href="https://www.linkedin.com/in/rohanur-rahman-/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://medium.com/@playwithdatawithontu" target="_blank">
