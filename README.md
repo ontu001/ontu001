@@ -18,12 +18,12 @@
 </p>
 
 
-##  About Me
+##  Hey
 
-Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping SaaS businesses grow through actionable insights.
+Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping businesses grow through actionable insights.
 
 -  Specializing in **product, retention, and growth analytics**
--  Tools I use daily: **SQL, Python, Power BI, BigQuery**
+-  Tools I use daily: **SQL, Python, Power BI, BigQuery, Metabase**
 -  From **churn analysis** to **user segmentation**, I help product teams turn raw data into decisions.
 -  Currently building SaaS-focused projects: **cohort dashboards, funnel drop-offs, LTV models**
 -  I write about **data, SaaS growth, and analytics frameworks** on [Medium](https://medium.com/@playwithdatawithontu)
@@ -58,17 +58,9 @@ Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping
 
 ##  How to Reach Me
 
-<p align="left">
-  <a href="https://twitter.com/@rohanurrahman16" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/in/rohanur/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/19823887" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100028137482936" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/@rohanurrahman" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/rohanurrahman1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-</p>
-
 - Email: **playwithdatawithontu@gmail.com**
-- [LinkedIn](https://www.linkedin.com/in/rohanur/)
+- [LinkedIn](https://www.linkedin.com/in/rohanur-rahman-/)
+- [Hackerrank](https://www.hackerrank.com/profile/playwithdatawit1)
 - [Medium](https://medium.com/@playwithdatawithontu)
 - [YouTube](https://www.youtube.com/c/@rohanurrahman)
 - [Twitter](https://twitter.com/rohanurrahman16)
@@ -90,5 +82,3 @@ Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" />
   </a>
 </p>
-
----
