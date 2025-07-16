@@ -73,8 +73,6 @@ Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping
   </a>
 </p>
 
-##  GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ontu001&show_icons=true&theme=default" alt="GitHub stats" />
 </p>
