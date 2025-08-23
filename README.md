@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm Rohanur Rahman</h1>
 <h3 align="center">Data Analyst | SaaS Analytics | SQL • Python • Power BI • BigQuery</h3>
 
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohanur-rahman-/" target="_blank">
@@ -19,7 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=ontu001&label=Profile%20Views&color=0e75b6&style=flat-square" alt="ontu001" />
 </p>
 
----
 
 ## 👨‍💻 About Me  
 
