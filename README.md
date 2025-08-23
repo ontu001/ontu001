@@ -62,6 +62,15 @@ Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping
 - Learning more about **A/B testing & cohort-based growth modeling**  
 
 ---
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ontu001&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ontu001&theme=tokyonight" />
+</p>
+
 
 ## 📬 How to Reach Me  
 
@@ -81,11 +90,3 @@ Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping
 </p>
 
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ontu001&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ontu001&theme=tokyonight" />
-</p>
