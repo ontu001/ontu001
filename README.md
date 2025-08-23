@@ -60,7 +60,7 @@ Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping
 - Learning more about **A/B testing & cohort-based growth modeling**  
 
 ---
-## 📊 GitHub Stats  
+## 📊 Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ontu001&theme=tokyonight" height="180"/>
 </p>
@@ -70,7 +70,7 @@ Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping
 </p>
 
 
-## 📬 How to Reach Me  
+## 📬 To Reach Me  
 
 - 📧 Email: **playwithdatawithontu@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohanur-rahman-/)  
@@ -78,8 +78,6 @@ Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping
 - 📝 [Medium](https://medium.com/@playwithdatawithontu)  
 - 🎥 [YouTube](https://www.youtube.com/c/@rohanurrahman)  
 - 🐦 [Twitter](https://twitter.com/rohanurrahman16)  
-
-## ☕ Support My Work  
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/rohanurrahman">
