@@ -59,16 +59,15 @@ Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping
 - Building dashboards for **recurring revenue & funnel metrics**  
 - Learning more about **A/B testing & cohort-based growth modeling**  
 
----
 ## 📊 Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ontu001&theme=tokyonight" height="180"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ontu001&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ontu001&theme=tokyonight" height="180"/>
+</p>
 
 ## 📬 To Reach Me  
 
