@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Rohanur Rahman</h1>
+<h1 align="center"> Hi, I'm Rohanur Rahman</h1>
 <h3 align="center">Data Analyst | SaaS Analytics | SQL • Python • Power BI • BigQuery</h3>
 
 
@@ -19,7 +19,7 @@
 </p>
 
 
-## 👨‍💻 About Me  
+##  About Me  
 
 Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping businesses grow through actionable insights.  
 
@@ -31,35 +31,35 @@ Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping
 
 ---
 
-## 🛠️ Skills & Tools  
+##  Skills & Tools  
 
 ### 💻 Languages & Querying  
 `SQL` • `Python` • `DAX`  
 
-### 📊 Analytics & BI  
+### Analytics & BI  
 `Power BI` • `Looker Studio` • `Metabase`  
 
-### 📑 Spreadsheet  
+### Spreadsheet  
 `Advanced Excel` • `Google Sheets`  
 
-### 🗄️ Data Warehousing  
+### Data Warehousing  
 `BigQuery` • `PostgreSQL` • `MySQL`  
 
-### 📈 Libraries  
+### Libraries  
 `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Plotly`  
 
-### ⚙️ Workflow & Version Control  
+### Workflow & Version Control  
 `Git` • `GitHub` • `Jupyter Notebook`  
 
 ---
 
-## 🎯 Current Focus  
+## Current Focus  
 
 - SaaS analytics (**churn, retention, product usage**)  
 - Building dashboards for **recurring revenue & funnel metrics**  
 - Learning more about **A/B testing & cohort-based growth modeling**  
 
-## 📊 Stats  
+## Stats  
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ontu001&theme=tokyonight" />
@@ -69,7 +69,7 @@ Hi! I'm **Rohanur Rahman**, a results-driven **Data Analyst** focused on helping
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ontu001&theme=tokyonight" height="180"/>
 </p>
 
-## 📬 To Reach Me  
+## To Reach Me  
 
 - 📧 Email: **playwithdatawithontu@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohanur-rahman-/)  
